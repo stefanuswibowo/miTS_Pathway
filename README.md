@@ -71,6 +71,7 @@ This part was destined to find the exact microRNA that responsible for IQGAP1 ge
 
 ### 2. Statistical/Correlation Analysis (Find the Spearman Rho and Significance Value)
 - Using matlab, perform the spearman rho and significance value test. Download *Spearman_Rho_&_Significance_Value.mat*
+- :arrow_down: [Download the prebuilt zip file and unzip it.](https://github.com/stefanuswibowo/miTS_Pathway/releases/latest)
 - :video camera: Video tutorial [Statistical Analysis (4)]
 
 ### 3. Validation
