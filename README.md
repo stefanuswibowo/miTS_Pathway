@@ -51,9 +51,12 @@ Tools & Databases used during the first execution:
  
  [[Back to top]](https://github.com/stefanuswibowo/MiTS_Pathway#Developer)
  
- -Stefanus Satrio Hadi Wibowo (stefanus.satrio@student.i3l.ac.id)
-  Create the Gene-MiRna pathway analysis process and execute it
- -David Agustriawan (david.agustriawan.i3l.ac.id)
-  Create the Gene-miRNA correlation process Matlab code and supervised the research
- -Jeremias Ivan (jeremias.ivan@student.i3l.ac.id)
-  Create the Python coding and verificaiton process
+ - Stefanus Satrio Hadi Wibowo (stefanus.satrio@student.i3l.ac.id)
+ 
+   Create the Gene-MiRna pathway analysis process and execute it
+ - David Agustriawan (david.agustriawan@i3l.ac.id)
+ 
+   Create the Gene-miRNA correlation process Matlab code and supervised the research
+ - Jeremias Ivan (jeremias.ivan@student.i3l.ac.id)
+ 
+   Create the Python coding and verificaiton process
