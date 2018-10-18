@@ -3,9 +3,12 @@ A step to step guide on mining cancer biomarker based on **mi**croRNA data and *
 
 The miTS Pathway method has been discussed previously on IOP Journal of Physics: Conference Series (Indexes by SCOPUS) in article [**Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process**](http://commdis.telkomuniversity.ac.id/icodis/2018/). In this repository, the demonstration of the method  was provided.
 
-Goal of the demonstrated experiment:
+**Goal of the demonstrated experiment:**
 - Find thyroid carcinoma's biomarker related to IQGAP1 gene based on the miRNA presence in patient thyroid tissue.
 - Find the molecular interaction that promote the cancer.
+
+**Pipeline:**
+![Screen1](https://imgur.com/93AEymj.jpg)
 
 
 # Index
@@ -99,7 +102,7 @@ This part was destined to find the exact microRNA that responsible for IQGAP1 ge
  
  - Stefanus Satrio Hadi Wibowo (stefanus.satrio@student.i3l.ac.id)
  
-   Create the Gene-MiRna pathway analysis process and execute it
+   Create the Gene-miRna pathway analysis process and execute it
  - David Agustriawan (david.agustriawan@i3l.ac.id)
  
    Create the Gene-miRNA correlation process Matlab code and supervised the research
