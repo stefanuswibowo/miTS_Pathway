@@ -40,18 +40,19 @@ The method is compatible for any OS as long the tools and database mentioned abo
 
 [[Back to top]](https://github.com/stefanuswibowo/MiTS_Pathway#index)
 
-- **Gene-miRNA correlation**
+The complete video tutorial can be accesed on: [A step to step guideline in Mining Cancer Biomarker and its pathway interaction based on miTS method]
 
+**Gene-miRNA correlation**
 This part was destined to find the exact microRNA that responsible for IQGAP1 gene regulation. The investigation was created based on correlation approach
-  - Data Pre-Processing/Data Mining
-    1. Download the Metadata file
+ - Data Pre-Processing/Data Mining
+   1. Download the metadata file of cancer repository in [National Cancer Institute GDC Data Portal](https://portal.gdc.cancer.gov/) database using the parameter listed on "Data pre-processing" section of [Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process] paper. The video tutorial was presented on: [Data Pre-Processing/Data Mining [1]]
     
     By accessing correlation analysis
-  - Statistical/Correlation Analysis
-  - Validation
-- Gene-miRNA pathway
-  - Protein Target
-  - Gene
+ - Statistical/Correlation Analysis
+ - Validation
+ **Gene-miRNA pathway**
+ - Protein Target
+ - Gene
   
  ## Developer Contribution & Contacts
  
