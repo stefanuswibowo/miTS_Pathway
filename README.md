@@ -1,18 +1,23 @@
 # miTS_Pathway
 A step to step guide on mining cancer biomarker based on **mi**croRNA data and **T**issue **S**pecificity of disease (**miTS**) + Molecular Pathway Investigation
 
-##Index
+The miTS Pathway method has been discussed previously on [IOP Journal of Physics: Conference Series (Indexes by SCOPUS)](http://iopscience.iop.org/journal/1742-6596) in article [Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process](http://commdis.telkomuniversity.ac.id/icodis/2018/). In this repository, the full method of the experiment was provided.
+
+Here, the example of utilizing method to detect thyroid carcinoma's biomarker related to IQGAP1 gene was provided.
+
+
+## Index
 
 - [About](https://github.com/stefanuswibowo/MiTS_Pathway#about)
 - [Pipeline](https://github.com/stefanuswibowo/MiTS_Pathway#pipeline)
 - [Contacts](https://github.com/stefanuswibowo/MiTS_Pathway#contacts)
 
-  
-##About
+
+## About
 
 [[Back to top]](https://github.com/stefanuswibowo/MiTS_Pathway#index)
 
-miTS_Pathway is a method to obtain cancer biomarker and understand its molecular pathway based on miTS method and Molecular Pathway Investigation. The miTS Pathway method has been discussed previously on [IOP Journal of Physics: Conference Series (Indexes by SCOPUS)](http://iopscience.iop.org/journal/1742-6596) in article [Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process](http://commdis.telkomuniversity.ac.id/icodis/2018/). Here, the full method of the experiment was provided
+miTS_Pathway is a method to obtain cancer biomarker and understand its molecular pathway based on miTS method and Molecular Pathway Investigation. 
 
 Tools & Databases used during the first execution:
 - [National Cancer Institute GDC Data Portal](https://portal.gdc.cancer.gov/) *Database*
@@ -28,4 +33,14 @@ Tools & Databases used during the first execution:
 - [KEGG](https://www.genome.jp/kegg/) *Database*
 
 
-##Pipeline
+## Pipeline
+
+[[Back to top]](https://github.com/stefanuswibowo/MiTS_Pathway#index)
+
+-Gene-miRNA correlation
+  -Data Pre-Processing/Data Mining
+  -Statistical/Correlation Analysis
+  -Validation
+-Gene-miRNA pathway
+  -Protein Target
+  -Gene-
