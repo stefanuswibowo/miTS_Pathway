@@ -82,6 +82,7 @@ This part was destined to find the exact microRNA that responsible for IQGAP1 ge
 - :video_camera: Video tutorial [Correlation Validation (5)]
 
 ## Gene-miRNA pathway
+This part was destined to find the miRNA interaction and IQGAP1 in molecular pathway.
 
 ### 1.Find Protein Target
 - Using [miRTarBase](http://mirtarbase.mbc.nctu.edu.tw/) find the miRNA target
