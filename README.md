@@ -1,9 +1,11 @@
 # miTS_Pathway
-A step to step guide on mining cancer biomarker based on **mi**croRNA data and **T**issue **S**pecificity of disease (**miTS**) + Molecular Pathway Investigation
+A step to step guide on mining cancer biomarker based on **mi**croRNA data and **T**issue **S**pecificity of disease (**miTS**) + Molecular Pathway Investigation.
 
-The miTS Pathway method has been discussed previously on [IOP Journal of Physics: Conference Series (Indexes by SCOPUS)](http://iopscience.iop.org/journal/1742-6596) in article [Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process](http://commdis.telkomuniversity.ac.id/icodis/2018/). In this repository, the full method of the experiment was provided.
+The miTS Pathway method has been discussed previously on IOP Journal of Physics: Conference Series (Indexes by SCOPUS) in article [Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process](http://commdis.telkomuniversity.ac.id/icodis/2018/). In this repository, the demonstration of the method  was provided.
 
-Here, the example of utilizing method to detect thyroid carcinoma's biomarker related to IQGAP1 gene was provided.
+Goal of the demonstrated experiment:
+- Find thyroid carcinoma's biomarker related to IQGAP1 gene based on the miRNA presence in patient thyroid tissue.
+- Find the molecular interaction that promote the cancer.
 
 
 ## Index
