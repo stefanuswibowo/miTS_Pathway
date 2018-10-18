@@ -19,9 +19,7 @@ Goal of the demonstrated experiment:
 
 [[Back to top]](https://github.com/stefanuswibowo/MiTS_Pathway#index)
 
-miTS_Pathway is a method to obtain cancer biomarker and understand its molecular pathway based on miTS method and Molecular Pathway Investigation. 
-
-Tools & Databases used during the first execution:
+Tools & Databases used in this experiment demonstration
 - [National Cancer Institute GDC Data Portal](https://portal.gdc.cancer.gov/) *Database*
 - [Data Conversion from .JSON to .CSV](https://konklone.io/json/) *Tools*
 - [Phyton 3.6](https://www.python.org/downloads/release/python-360/) *Tools*
@@ -34,13 +32,21 @@ Tools & Databases used during the first execution:
 - [STRING](https://string-db.org/) *Database*
 - [KEGG](https://www.genome.jp/kegg/) *Database*
 
+Compatibility
+The method is compatible for any OS as long the tools and database mentioned above can be accessed. However, the tutorial here was shown based on Windows 10 OS
+
 
 ## Pipeline
 
 [[Back to top]](https://github.com/stefanuswibowo/MiTS_Pathway#index)
 
-- Gene-miRNA correlation
+- **Gene-miRNA correlation**
+
+This part was destined to find the exact microRNA that responsible for IQGAP1 gene regulation. The investigation was created based on correlation approach
   - Data Pre-Processing/Data Mining
+    1. Download the Metadata file
+    
+    By accessing correlation analysis
   - Statistical/Correlation Analysis
   - Validation
 - Gene-miRNA pathway
