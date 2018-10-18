@@ -1,4 +1,4 @@
-miTS_Pathway
+# miTS_Pathway
 A step to step guide on mining cancer biomarker based on **mi**croRNA data and **T**issue **S**pecificity of disease (**miTS**) + Molecular Pathway Investigation.
 
 The miTS Pathway method has been discussed previously on IOP Journal of Physics: Conference Series (Indexes by SCOPUS) in article [**Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process**](http://commdis.telkomuniversity.ac.id/icodis/2018/). In this repository, the demonstration of the method  was provided.
@@ -46,9 +46,12 @@ The complete video tutorial can be accesed on: [A step to step guideline in Mini
 ## Gene-miRNA correlation
 This part was destined to find the exact microRNA that responsible for IQGAP1 gene regulation. Here, the author use statistical correlation analysis to find the miRNA.
 ### Data Pre-Processing/Data Mining
-1. Download the metadata file of cancer repository in [National Cancer Institute GDC Data Portal](https://portal.gdc.cancer.gov/) database using the parameter listed on "Data pre-processing" section of [Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process] paper. The video tutorial was presented on: [Data Pre-Processing/Data Mining (1)]
+1. Download the metadata file of cancer repository in [National Cancer Institute GDC Data Portal](https://portal.gdc.cancer.gov/) database using the parameter listed on "Data pre-processing" section of [Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process] paper.
+
+The video tutorial was presented on: [Data Pre-Processing/Data Mining (1)]
 2. Conver the metadata file from .json to .csv using tools such as: [konklone](https://konklone.io/json/). The video tutorial was presented on: [Data Conversion (2)]
 3. Find the patient ID that contain both gene and miRNA (data filtration) using python. The code can be obtained by download find_id.py on:
+
 :arrow_down: [Download the prebuilt zip file and unzip it.](https://github.com/stefanuswibowo/miTS_Pathway/releases/latest)
 
 
