@@ -44,9 +44,11 @@ The method is compatible for any OS as long the tools and database mentioned abo
 The complete video tutorial can be accesed on: [A step to step guideline in Mining Cancer Biomarker and its pathway interaction based on miTS method]
 
 **Gene-miRNA correlation**
-This part was destined to find the exact microRNA that responsible for IQGAP1 gene regulation. The investigation was created based on correlation approach
+This part was destined to find the exact microRNA that responsible for IQGAP1 gene regulation. Here, the author use statistical correlation analysis to find the miRNA.
  - Data Pre-Processing/Data Mining
-   1. Download the metadata file of cancer repository in [National Cancer Institute GDC Data Portal](https://portal.gdc.cancer.gov/) database using the parameter listed on "Data pre-processing" section of [Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process] paper. The video tutorial was presented on: [Data Pre-Processing/Data Mining [1]]
+   1. Download the metadata file of cancer repository in [National Cancer Institute GDC Data Portal](https://portal.gdc.cancer.gov/) database using the parameter listed on "Data pre-processing" section of [Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process] paper. The video tutorial was presented on: [Data Pre-Processing/Data Mining (1)]
+   2. Conver the metadata file from .json to .csv using tools such as: [konklone](https://konklone.io/json/). The video tutorial was presented on: [Data Conversion (2)]
+   3. Find the patient ID that contain both gene and miRNA (data filtration) using python 3.6
     
     By accessing correlation analysis
  - Statistical/Correlation Analysis
