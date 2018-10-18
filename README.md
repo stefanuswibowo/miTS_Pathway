@@ -1,7 +1,7 @@
 # miTS_Pathway
 A step to step guide on mining cancer biomarker based on **mi**croRNA data and **T**issue **S**pecificity of disease (**miTS**) + Molecular Pathway Investigation.
 
-The miTS Pathway method has been discussed previously on IOP Journal of Physics: Conference Series (Indexes by SCOPUS) in article [Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process](http://commdis.telkomuniversity.ac.id/icodis/2018/). In this repository, the demonstration of the method  was provided.
+The miTS Pathway method has been discussed previously on IOP Journal of Physics: Conference Series (Indexes by SCOPUS) in article [**Mining Potential MicroRNA Biomarkers related to IQGAPs of Tyroid Carcinoma through *in silico* process**](http://commdis.telkomuniversity.ac.id/icodis/2018/). In this repository, the demonstration of the method  was provided.
 
 Goal of the demonstrated experiment:
 - Find thyroid carcinoma's biomarker related to IQGAP1 gene based on the miRNA presence in patient thyroid tissue.
@@ -12,7 +12,7 @@ Goal of the demonstrated experiment:
 
 - [About](https://github.com/stefanuswibowo/MiTS_Pathway#about)
 - [Pipeline](https://github.com/stefanuswibowo/MiTS_Pathway#pipeline)
-- [Contacts](https://github.com/stefanuswibowo/MiTS_Pathway#contacts)
+- [Developer](https://github.com/stefanuswibowo/MiTS_Pathway#contacts)
 
 
 ## About
@@ -39,10 +39,21 @@ Tools & Databases used during the first execution:
 
 [[Back to top]](https://github.com/stefanuswibowo/MiTS_Pathway#index)
 
--Gene-miRNA correlation
-  -Data Pre-Processing/Data Mining
-  -Statistical/Correlation Analysis
-  -Validation
--Gene-miRNA pathway
-  -Protein Target
-  -Gene-
+- Gene-miRNA correlation
+  - Data Pre-Processing/Data Mining
+  - Statistical/Correlation Analysis
+  - Validation
+- Gene-miRNA pathway
+  - Protein Target
+  - Gene
+  
+ ## Developer Contribution & Contacts
+ 
+ [[Back to top]](https://github.com/stefanuswibowo/MiTS_Pathway#Developer)
+ 
+ -Stefanus Satrio Hadi Wibowo (stefanus.satrio@student.i3l.ac.id)
+  Create the Gene-MiRna pathway analysis process and execute it
+ -David Agustriawan (david.agustriawan.i3l.ac.id)
+  Create the Gene-miRNA correlation process Matlab code and supervised the research
+ -Jeremias Ivan (jeremias.ivan@student.i3l.ac.id)
+  Create the Python coding and verificaiton process
