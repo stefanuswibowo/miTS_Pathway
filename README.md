@@ -19,7 +19,7 @@ Goal of the demonstrated experiment:
 
 [[Back to top]](https://github.com/stefanuswibowo/MiTS_Pathway#index)
 
-Tools & Databases used in this experiment demonstration
+**Tools & Databases used in this experiment demonstration:**
 - [National Cancer Institute GDC Data Portal](https://portal.gdc.cancer.gov/) *Database*
 - [Data Conversion from .JSON to .CSV](https://konklone.io/json/) *Tools*
 - [Phyton 3.6](https://www.python.org/downloads/release/python-360/) *Tools*
@@ -32,7 +32,8 @@ Tools & Databases used in this experiment demonstration
 - [STRING](https://string-db.org/) *Database*
 - [KEGG](https://www.genome.jp/kegg/) *Database*
 
-Compatibility
+**Compatibility**
+
 The method is compatible for any OS as long the tools and database mentioned above can be accessed. However, the tutorial here was shown based on Windows 10 OS
 
 
